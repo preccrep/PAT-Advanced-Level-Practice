@@ -1,2 +1,2 @@
 # PAT-Advanced-Level-Practice
-PAT甲级刷题记录，持续更新直到完成
+PAT advanced level using C++.
